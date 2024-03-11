@@ -1,1 +1,3 @@
-# Data-Structures
+# Data Structures Course Code Readme
+
+This repository contains a variety of code snippets and implementations related to our Data Structures course. As you explore the code, you may come across sections that pique your interest or spark ideas. Feel free to contribute your solutions, insights, or optimizations to enhance the learning experience for everyone. If you find a piece of code particularly intriguing or have a unique perspective on its implementation, don't hesitate to share your thoughts. Your contributions can be made through pull requests, fostering a collaborative environment for learning and problem-solving. Happy coding!
