@@ -120,6 +120,7 @@ int main()
 	cin >> exp;
 	isPalindrome(exp);
 
+	cout<<endl;  // for showing the return statement in next line
 	system("pause");
 	return 0;
 }
