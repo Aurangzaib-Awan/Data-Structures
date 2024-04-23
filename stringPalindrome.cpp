@@ -8,6 +8,7 @@ public:
 	Node* nxt;
 	Node(char c) :val(c), nxt(NULL) {}
 };
+//following is the class to implement stack
 class stack {
 	
 	Node * Top;
